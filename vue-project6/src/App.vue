@@ -16,7 +16,9 @@ import { RouterLink, RouterView } from 'vue-router'
         <RouterLink to="/todo">ToDo</RouterLink> &nbsp;
         <RouterLink to="/ref">Ref Hook</RouterLink> &nbsp;
         <RouterLink to="/lifecycle">LifeCycle Hook</RouterLink> &nbsp;
-        <RouterLink to="/form">Form Inputs</RouterLink>
+        <RouterLink to="/form">Form Inputs</RouterLink> &nbsp;
+        <RouterLink to="/puspa">Puspa Item</RouterLink> &nbsp;
+        <RouterLink to="/puspalist">Puspa List</RouterLink>
       </nav>
     </div>
   </header>
